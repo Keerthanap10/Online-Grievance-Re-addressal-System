@@ -1,0 +1,21 @@
+
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 18px;
+}
+nav {
+    background-color: #007bff;
+}
+
+nav a {
+    color: #ffffff;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

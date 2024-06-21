@@ -1,0 +1,59 @@
+body {
+    background-color: #ffffff;
+    color: #343a40;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    color: #343a40;
+}
+nav {
+    background-color: #007bff;
+}
+nav a {
+    color: #ffffff;
+}
+.container {
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+.jumbotron {
+    background-color: #ffffff;
+    color: #343a40;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+.card {
+    height: 100%;
+    background-color: #ffffff;
+    color: #343a40;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-text {
+    font-size: 18px;
+}
+.carousel-item img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+#contact {
+    background-color: #f8f9fa;
+    padding: 30px;
+    text-align: center;
+}
